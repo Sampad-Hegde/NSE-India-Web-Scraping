@@ -1,5 +1,14 @@
 # National Stock Exchange (India) Web-Scraping For getting Required Data
 
+---
+## *Note:* I have created a new repo + Python library which is more optimised and contains many feature and aslo well documented and structured. Requesting everyone use that instead of this Repo.
+- ```shell
+  pip3 install Bharat-sm-data
+  ```
+- https://github.com/Sampad-Hegde/Bharat-SM-Data
+
+---
+
 ## WebSite-Url : [https://www.nseindia.com/](https://www.nseindia.com/)
 
 ## gereral.py
